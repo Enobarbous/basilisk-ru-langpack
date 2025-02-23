@@ -1,0 +1,26 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY syncCustomize.dialog.title       "Выбор синхронизации">
+<!ENTITY syncCustomize.acceptButton.label "Старт">
+
+<!ENTITY syncCustomize.title              "Что бы вы хотели синхронизировать?">
+<!ENTITY syncCustomize.description        "Вы можете изменить этот параметр в настройках.">
+
+<!--
+  These engine names are the same as in browser/preferences/sync.dtd except
+  for the last two that are marked as being specific to Desktop browsers.
+-->
+<!ENTITY engine.bookmarks.label           "Закладки">
+<!ENTITY engine.bookmarks.accesskey       "З">
+<!ENTITY engine.history.label             "История">
+<!ENTITY engine.history.accesskey         "И">
+<!ENTITY engine.tabs.label           "Открыть вкладки">
+<!ENTITY engine.tabs.accesskey            "в">
+<!ENTITY engine.passwords.label           "Пароли">
+<!ENTITY engine.passwords.accesskey       "П">
+<!ENTITY engine.addons.label              "Дополнения">
+<!ENTITY engine.addons.accesskey          "Д">
+<!ENTITY engine.prefs.label               "Настройки">
+<!ENTITY engine.prefs.accesskey           "Н">

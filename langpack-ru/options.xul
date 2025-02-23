@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<vbox xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul">
+<setting pref="general.useragent.locale" type="radio" title="general.useragent.locale">
+  <radiogroup>
+    <radio value="ru" label="Рус" />
+    <radio value="en-US" label="Англ" />
+  </radiogroup>
+Изменение значения языковой локализации в файле настроек, не заходя в about:config
+</setting>
+</vbox>

@@ -1,0 +1,20 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY tabs.otherDevices.label               "Вкладки с других устройств">
+
+<!ENTITY tabs.searchText.label                   "Введите здесь, чтобы найти вкладки…">
+
+<!-- LOCALIZATION NOTE (tabs.context.openTab.accesskey, tabs.context.openMultipleTabs.accesskey):
+     Only one of these will show at a time (based on selection), so reusing accesskey is ok. -->
+<!ENTITY tabs.context.openTab.label                   "Открыть вкладку">
+<!ENTITY tabs.context.openTab.accesskey               "О">
+<!ENTITY tabs.context.openMultipleTabs.label          "Открыть выбранные вкладки">
+<!ENTITY tabs.context.openMultipleTabs.accesskey      "О">
+<!ENTITY tabs.context.bookmarkSingleTab.label         "Закладка этой вкладки…">
+<!ENTITY tabs.context.bookmarkSingleTab.accesskey     "З">
+<!ENTITY tabs.context.bookmarkMultipleTabs.label      "Закладка выбранных вкладок ...">
+<!ENTITY tabs.context.bookmarkMultipleTabs.accesskey  "З">
+<!ENTITY tabs.context.refreshList.label               "Обновить список">
+<!ENTITY tabs.context.refreshList.accesskey           "б">

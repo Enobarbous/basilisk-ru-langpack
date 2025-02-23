@@ -1,0 +1,37 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY errorConsole.title "Консоль Ошибок">
+
+<!ENTITY errFile.label   "Исходный файл:">
+<!ENTITY errLine.label   "Строка:">
+<!ENTITY errColumn.label "Столбец:">
+
+<!ENTITY all.label          "Все">
+<!ENTITY all.accesskey      "В">
+<!ENTITY errors.label       "Ошибки">
+<!ENTITY errors.accesskey   "О">
+<!ENTITY warnings.label     "Предупреждения">
+<!ENTITY warnings.accesskey "П">
+<!ENTITY messages.label     "Сообщения">
+<!ENTITY messages.accesskey "С">
+<!ENTITY clear.label        "Очистить">
+<!ENTITY clear.accesskey    "О">
+<!ENTITY codeEval.label     "Код:">
+<!ENTITY codeEval.accesskey "д">
+<!ENTITY evaluate.label     "Выполнить">
+<!ENTITY evaluate.accesskey "ы">
+<!ENTITY filter2.label      "Фильтр:">
+<!ENTITY filter2.accesskey  "Ф">
+
+<!ENTITY copyCmd.label       "Копировать">  
+<!ENTITY copyCmd.accesskey   "К"> 
+<!ENTITY copyCmd.commandkey  "К"> 
+<!ENTITY sortFirst.label     "Первый > Последний порядок Сортировки">
+<!ENTITY sortFirst.accesskey "р">
+<!ENTITY sortLast.label      "Последний > Первый порядок Сортировки">
+<!ENTITY sortLast.accesskey  "л">
+<!ENTITY closeCmd.commandkey "з">  
+<!ENTITY focus1.commandkey   "l">  
+<!ENTITY focus2.commandkey   "d">  

@@ -1,0 +1,7 @@
+{
+  "default": {
+    "visibleDefaultEngines": [
+      "duckduckgo-palemoon", "yandex", "google", "bing", "yahoo-ru", "wikipedia-ru"
+    ]
+  }
+}
