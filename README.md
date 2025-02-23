@@ -1,2 +1,9 @@
-# basilisk-ru-langpack
-Russian language pack for Basilisk browser
+### Русский языковой пакет для браузера Basilisk
+**Установка:**
+1. Загрузите нужную версию перевода со страницы _Releases_
+2. Перетащите загруженный .xpi в окно Basilisk
+3. Подтвердите установку расширения
+4. Теперь необходимо фактически переключить язык. Есть 2 способа:
+   - Перейдите в Add-ons > Languages, нажмите Options у только что установленного языкового пакета и выберите значение "Рус" для general.useragent.locale
+   - *Или* откройте about:config и измените значение general.useragent.locale с "en-US" на "ru-RU"
+5. Перезапустите браузер
