@@ -1,7 +1,7 @@
 {
   "default": {
     "visibleDefaultEngines": [
-      "duckduckgo-palemoon", "yandex", "google", "bing", "yahoo-ru", "wikipedia-ru"
+      "duckduckgo-palemoon", "mojeek", "bing", "ecosia", "ekoru", "twitter", "wikipedia", "yahoo"
     ]
   }
 }
