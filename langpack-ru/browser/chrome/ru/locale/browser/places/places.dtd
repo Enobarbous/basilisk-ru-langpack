@@ -41,23 +41,23 @@
 <!ENTITY cmd.restoreFromFile.label      "Выбрать файл…">
 <!ENTITY cmd.restoreFromFile.accesskey  "б">
 
-<!ENTITY cmd.bookmarkLink.label "Добавить страницу в закладки…">
-<!ENTITY cmd.bookmarkLink.accesskey "б">
-<!ENTITY cmd.delete.label "Удалить эту страницу">
-<!ENTITY cmd.delete.accesskey "д">
-<!ENTITY cmd.deleteDomainData.label "Забыть об этом сайте">
+<!ENTITY cmd.bookmarkLink.label         "Добавить страницу в закладки…">
+<!ENTITY cmd.bookmarkLink.accesskey     "б">
+<!ENTITY cmd.delete.label               "Удалить эту страницу">
+<!ENTITY cmd.delete.accesskey           "д">
+<!ENTITY cmd.deleteDomainData.label     "Забыть об этом сайте">
 <!ENTITY cmd.deleteDomainData.accesskey "б">
 
-<!ENTITY cmd.open.label                  "Открыть">
-<!ENTITY cmd.open.accesskey              "О">
-<!ENTITY cmd.open_window.label           "Открыть в новом окне">
-<!ENTITY cmd.open_window.accesskey       "н">
+<!ENTITY cmd.open.label                    "Открыть">
+<!ENTITY cmd.open.accesskey                "О">
+<!ENTITY cmd.open_window.label             "Открыть в новом окне">
+<!ENTITY cmd.open_window.accesskey         "н">
 <!ENTITY cmd.open_private_window.label     "Открыть в новом приватном окне">
-<!ENTITY cmd.open_private_window.accesskey "ы">
-<!ENTITY cmd.open_tab.label              "Открыть в новой вкладке">
-<!ENTITY cmd.open_tab.accesskey          "ы">
-<!ENTITY cmd.open_all_in_tabs.label      "Открыть всё во вкладках">
-<!ENTITY cmd.open_all_in_tabs.accesskey  "в">
+<!ENTITY cmd.open_private_window.accesskey "п">
+<!ENTITY cmd.open_tab.label                "Открыть в новой вкладке">
+<!ENTITY cmd.open_tab.accesskey            "ы">
+<!ENTITY cmd.open_all_in_tabs.label        "Открыть всё во вкладках">
+<!ENTITY cmd.open_all_in_tabs.accesskey    "в">
 
 <!ENTITY cmd.properties.label      "Свойства">
 <!ENTITY cmd.properties.accesskey  "в">
@@ -77,20 +77,20 @@
 <!ENTITY cmd.reloadLivebookmark.label      "Обновить закладку на ленту новостей">
 <!ENTITY cmd.reloadLivebookmark.accesskey  "н">
 
-<!ENTITY cmd.moveBookmarks.label                  "Переместить…">
-<!ENTITY cmd.moveBookmarks.accesskey              "м">
+<!ENTITY cmd.moveBookmarks.label           "Переместить…">
+<!ENTITY cmd.moveBookmarks.accesskey       "м">
 
-<!ENTITY col.name.label          "Имя">
-<!ENTITY col.tags.label          "Метки">
-<!ENTITY col.url.label           "Адрес">
-<!ENTITY col.mostrecentvisit.label "Последнее посещение">
-<!ENTITY col.visitcount.label    "Число посещений">
-<!ENTITY col.description.label   "Описание">
-<!ENTITY col.dateadded.label     "Добавлена">
-<!ENTITY col.lastmodified.label  "Посл. изменение">
+<!ENTITY col.name.label             "Имя">
+<!ENTITY col.tags.label             "Метки">
+<!ENTITY col.url.label              "Адрес">
+<!ENTITY col.mostrecentvisit.label  "Последнее посещение">
+<!ENTITY col.visitcount.label       "Кол-во посещений">
+<!ENTITY col.description.label      "Описание">
+<!ENTITY col.dateadded.label        "Добавлена">
+<!ENTITY col.lastmodified.label     "Посл. изменение">
 
-<!ENTITY search.label                              "Поиск:">
-<!ENTITY search.accesskey                          "о">
+<!ENTITY search.label               "Поиск:">
+<!ENTITY search.accesskey           "о">
 
 <!ENTITY cmd.find.key  "f">
 
@@ -98,14 +98,14 @@
 <!ENTITY maintenance.accesskey  "о">
 <!ENTITY maintenance.tooltip    "Импорт и резервные копии ваших закладок">
 
-<!ENTITY backButton.tooltip  "Перейти назад">
+<!ENTITY backButton.tooltip  "На предыдущую страницу">
 
-<!ENTITY forwardButton.tooltip  "Перейти вперёд">
+<!ENTITY forwardButton.tooltip  "На следующую страницу">
 
-<!ENTITY detailsPane.more.label "Больше">
-<!ENTITY detailsPane.more.accesskey "ш">
-<!ENTITY detailsPane.less.label "Меньше">
-<!ENTITY detailsPane.less.accesskey "ш">
+<!ENTITY detailsPane.more.label      "Больше">
+<!ENTITY detailsPane.more.accesskey  "ш">
+<!ENTITY detailsPane.less.label      "Меньше">
+<!ENTITY detailsPane.less.accesskey  "ш">
 <!ENTITY detailsPane.selectAnItemText.description "Выберите элемент для просмотра и редактирования его свойств">
 
 <!ENTITY find.label               "Найти:">

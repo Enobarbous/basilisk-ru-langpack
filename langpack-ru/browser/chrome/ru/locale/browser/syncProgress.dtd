@@ -7,8 +7,9 @@
     %brandDTD;
 
 <!-- These strings are used in the sync progress upload page -->
-<!ENTITY syncProgress.pageTitle    "Ваша Первая Синхронизация">
-<!ENTITY syncProgress.textBlurb    "Ваши данные в настоящее время шифруются и загружаются в фоновом режиме. Вы можете закрыть эту вкладку и продолжить использовать &brandShortName;.">
+<!ENTITY syncProgress.pageTitle    "Ваша первая синхронизация">
+<!ENTITY syncProgress.textBlurb    "Ваши данные сейчас шифруются и выгружаются в фоновом режиме. Вы можете закрыть эту вкладку и продолжить использовать &brandShortName;.">
 <!ENTITY syncProgress.closeButton  "Закрыть">
-<!ENTITY syncProgress.logoAltText  "&brandShortName; логотип">
-<!ENTITY syncProgress.diffText     "&brandShortName; теперь будет автоматически синхронизироваться в фоновом режиме. Вы можете закрыть эту вкладку и продолжить использовать &brandShortName;.">
+<!ENTITY syncProgress.logoAltText  "Логотип &brandShortName;">
+<!ENTITY syncProgress.diffText     "&brandShortName; теперь будет автоматически производить синхронизацию в фоновом режиме. Вы можете закрыть эту вкладку и продолжить использовать &brandShortName;.">
+

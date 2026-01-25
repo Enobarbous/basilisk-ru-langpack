@@ -2,168 +2,140 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutTelemetry.pageTitle "Telemetry Data">
+<!ENTITY aboutTelemetry.pageTitle "Данные телеметрии">
 
 <!ENTITY aboutTelemetry.changeDataChoices "
-  Change
-">
+  Изменить ">
 
 <!ENTITY aboutTelemetry.uploadEnabled "
-  FHR data upload is <span>enabled</span>.
-">
+  Выгрузка данных FHR <span>включена</span>. ">
 
 <!ENTITY aboutTelemetry.uploadDisabled "
-  FHR data upload is <span>disabled</span>.
-">
+  Выгрузка данных FHR <span>отключена</span>. ">
 
 <!ENTITY aboutTelemetry.extendedRecordingEnabled "
-  Extended Telemetry recording is <span>enabled</span>.
-">
+  Запись расширенной телеметрии <span>включена</span>. ">
 
 <!ENTITY aboutTelemetry.extendedRecordingDisabled "
-  Extended Telemetry recording is <span>disabled</span>.
-">
+  Запись расширенной телеметрии <span>отключена</span>. ">
 
 <!ENTITY aboutTelemetry.pingDataSource "
-Ping data source:
-">
+Источник данных пинга:">
 
 <!ENTITY aboutTelemetry.showCurrentPingData "
-Current ping data
-">
+Данные текущего пинга ">
 
 <!ENTITY aboutTelemetry.showArchivedPingData "
-Archived ping data
-">
+Данные архивированного пинга ">
 
 <!ENTITY aboutTelemetry.pingDataDisplay "
-Ping data display:
-">
+Отображение данных пинга: ">
 
 <!ENTITY aboutTelemetry.structured "
-Structured
-">
+Структурированное ">
 
 <!ENTITY aboutTelemetry.raw "
-Raw JSON
-">
+Необработанный JSON ">
 
 <!ENTITY aboutTelemetry.showSubsessionData "
-Show subsession data
-">
+Отображать данные подсессии ">
 
 <!ENTITY aboutTelemetry.choosePing "
-Choose ping:
-">
+Выберите пинг: ">
 
 <!ENTITY aboutTelemetry.showNewerPing "
-&lt;&lt; Newer ping
-">
+&lt;&lt; Более новый пинг ">
 
 <!ENTITY aboutTelemetry.showOlderPing "
-Older ping &gt;&gt;
-">
+Более старый пинг &gt;&gt; ">
 
 <!ENTITY aboutTelemetry.rawPingData "
-Raw ping data…
-">
+Необработанные данные пинга…">
 
 <!ENTITY aboutTelemetry.archiveWeekHeader "
-Week
+Неделя
 ">
 
 <!ENTITY aboutTelemetry.archivePingHeader "
-Ping
+Пинг
 ">
 
 <!ENTITY aboutTelemetry.generalDataSection "
-  General Data
+Общие данные
 ">
 
 <!ENTITY aboutTelemetry.environmentDataSection "
-  Environment Data
-">
+   Данные окружения ">
 
 <!ENTITY aboutTelemetry.telemetryLogSection "
-  Telemetry Log
+  Журнал телеметрии
 ">
 
 <!ENTITY aboutTelemetry.slowSqlSection "
-  Slow SQL Statements
-">
+   Медленные SQL-инструкции ">
 
 <!ENTITY aboutTelemetry.chromeHangsSection "
-  Browser Hangs
-">
+   Зависания браузера ">
 
 <!ENTITY aboutTelemetry.threadHangStatsSection "
-  Thread Hangs
+Зависания нитей
 ">
 
 <!ENTITY aboutTelemetry.scalarsSection "
-  Scalars
+  Скаляры
 ">
 
 <!ENTITY aboutTelemetry.keyedScalarsSection "
-  Keyed Scalars
-">
+  Скаляры ключей">
 
 <!ENTITY aboutTelemetry.histogramsSection "
-  Histograms
-">
+   Гистограммы ">
 
 <!ENTITY aboutTelemetry.keyedHistogramsSection "
-  Keyed Histograms
+Гистограммы ключей
 ">
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "
-  Simple Measurements
-">
+   Простые измерения ">
 
 <!ENTITY aboutTelemetry.addonDetailsSection "
-  Add-on Details
+Сведения о дополнении
 ">
 
 <!ENTITY aboutTelemetry.lateWritesSection "
-  Late Writes
-">
+  Поздние записи">
 
 <!ENTITY aboutTelemetry.sessionInfoSection "
-  Session Information
+  Информация о сессии
 ">
 
 <!ENTITY aboutTelemetry.addonHistogramsSection "
-  Histograms Collected by Add-ons
-">
+   Гистограммы, собранные дополнениями ">
 
 <!ENTITY aboutTelemetry.toggle "
-  Click to toggle section
+Щёлкните, чтобы развернуть/свернуть раздел
 ">
 
 <!ENTITY aboutTelemetry.emptySection "
-  (No data collected)
-">
+   (данные не собраны) ">
 
 <!ENTITY aboutTelemetry.fullSqlWarning "
-  NOTE: Slow SQL debugging is enabled. Full SQL strings may be displayed below but they will not be submitted to Telemetry.
-">
+      ПРИМЕЧАНИЕ: Включён медленный режим отладки SQL. Внизу могут быть показаны полные строки SQL, но в телеметрию они отправлены не будут. ">
 
 <!ENTITY aboutTelemetry.fetchSymbols "
-  Fetch function names for hang stacks
-">
+   Загрузить имена функций для стеков зависаний ">
 
 <!ENTITY aboutTelemetry.hideSymbols "
-  Show raw data from hangs
-">
+   Показать сырые данные из зависаний ">
 
 <!ENTITY aboutTelemetry.filterText "
-  Filter (strings or /regexp/)
+Фильтр (строковый или /regexp/)
 ">
 
 <!ENTITY aboutTelemetry.payloadChoiceHeader "
-  Payload
+  Нагрузка
 ">
 
 <!ENTITY aboutTelemetry.rawPayload "
-  Raw Payload
+  Необработанная нагрузка
 ">

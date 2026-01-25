@@ -2,17 +2,16 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-
 <!ENTITY dataPrivacy.label              "Отслеживание">
 <!ENTITY GPCLabel.label                 "Запретить сайтам передавать или продавать мои данные">
-<!ENTITY GPC.accesskey                  "О">
+<!ENTITY GPC.accesskey                  "о">
 <!ENTITY GPCLearnMore.label             "Подробнее">
 
 <!ENTITY  history.label                 "История">
 
-<!ENTITY  locationBar.label             "Панель адреса">
+<!ENTITY  locationBar.label             "Панель адресной строки">
 
-<!ENTITY  locbar.suggest.label         "При использовании панели адреса предлагать ссылки">
+<!ENTITY  locbar.suggest.label          "При использовании адресной строки предлагать ссылки:">
 <!ENTITY  locbar.history.label          "из журнала">
 <!ENTITY  locbar.history.accesskey      "ж">
 <!ENTITY  locbar.bookmarks.label        "из закладок">
@@ -22,13 +21,19 @@
 <!ENTITY  locbar.searches.label         "из подходящих поисков в поисковой системе по умолчанию">
 <!ENTITY  locbar.searches.accesskey     "х">
 
-<!ENTITY  suggestionSettings.label     "Изменить настройки для предложений поисковых систем">
-<!ENTITY  suggestionSettings.accesskey  "g">
+<!ENTITY  suggestionSettings.label      "Изменить настройки для предложений поисковых систем">
+<!ENTITY  suggestionSettings.accesskey  "с">
 
-<!ENTITY  acceptCookies.label           "Разрешать сайтам сохранять куки">
-<!ENTITY  acceptCookies.accesskey       "у">
+<!ENTITY  containers.label              "Контейнеры">
+<!ENTITY  containers.enable.label       "Включить контейнеры для вкладок">
+<!ENTITY  containers.enable.accesskey   "к">
+<!ENTITY  containersSettings.label      "Настройки…">
+<!ENTITY  containersSettings.accesskey  "Н">
 
-<!ENTITY  acceptThirdParty.pre.label      "Принимать куки со сторонних сайтов:">
+<!ENTITY  acceptCookies.label             "Разрешить веб-сайтам сохранять куки и данные сайтов">
+<!ENTITY  acceptCookies.accesskey         "Р">
+
+<!ENTITY  acceptThirdParty.pre.label      "Принимать куки и данные сайтов со сторонних веб-сайтов:">
 <!ENTITY  acceptThirdParty.pre.accesskey  "н">
 <!ENTITY  acceptThirdParty.always.label   "Всегда">
 <!ENTITY  acceptThirdParty.never.label    "Никогда">
@@ -44,10 +49,10 @@
 <!ENTITY  cookieExceptions.accesskey    "ю">
 
 <!ENTITY  showCookies.label             "Показать куки…">
-<!ENTITY  showCookies.accesskey         "з">
+<!ENTITY  showCookies.accesskey         "а">
 
-<!ENTITY  historyHeader.pre.label         "&brandShortName;">
-<!ENTITY  historyHeader.pre.accesskey     "s">
+<!ENTITY  historyHeader.pre.label          "&brandShortName;:">
+<!ENTITY  historyHeader.pre.accesskey      "s">
 <!ENTITY  historyHeader.remember.label     "будет запоминать историю">
 <!ENTITY  historyHeader.dontremember.label "не будет запоминать историю">
 <!ENTITY  historyHeader.custom.label       "будет использовать ваши настройки хранения истории">
@@ -86,4 +91,3 @@
 
 <!ENTITY  clearOnCloseSettings.label     "Параметры…">
 <!ENTITY  clearOnCloseSettings.accesskey "ы">
-

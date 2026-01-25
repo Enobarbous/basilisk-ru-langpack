@@ -14,12 +14,12 @@
 
 <!ENTITY            availprofiles.label    "Доступные профили">
 
-<!ENTITY            newButton.label        "Создать…">
-<!ENTITY            newButton.accesskey    "о">
+<!ENTITY            newButton.label        "Создать">
+<!ENTITY            newButton.accesskey    "з">
 <!ENTITY            renameButton.label     "Переименовать…">
 <!ENTITY            renameButton.accesskey "е">
 <!ENTITY            deleteButton.label     "Удалить…">
-<!ENTITY            deleteButton.accesskey "и">
+<!ENTITY            deleteButton.accesskey "д">
 
 <!-- manager entities -->
 <!ENTITY            pmDescription.label    "&brandShortName; хранит информацию о ваших настройках, закладках и т.д. в личном профиле.">
@@ -27,5 +27,5 @@
 <!ENTITY            offlineState.label    "Работать автономно">
 <!ENTITY            offlineState.accesskey "а">
 
-<!ENTITY            useSelected.label       "Запускать выделенный профиль без запроса">
+<!ENTITY            useSelected.label       "Запускать выбранный профиль без запроса">
 <!ENTITY            useSelected.accesskey   "п">

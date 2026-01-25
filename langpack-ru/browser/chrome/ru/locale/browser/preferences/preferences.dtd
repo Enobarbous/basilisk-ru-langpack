@@ -3,7 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!ENTITY  prefWindow.titleWin     "Настройки">
 <!ENTITY  prefWindow.title        "Настройки">
 <!-- LOCALIZATION NOTE (prefWindow.titleGNOME): This is not used for in-content preferences -->
 <!ENTITY  prefWindow.titleGNOME   "Настройки &brandShortName;">
@@ -22,7 +21,7 @@
 <!ENTITY  paneSecurity.title      "Безопасность">
 <!ENTITY  paneAdvanced.title      "Дополнительные">
 
-<!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
-<!ENTITY  paneSync.title          "Синхронизация">
+<!-- LOCALIZATION NOTE (paneSync.title): This should match syncBrand.shortName.label in ../syncBrand.dtd -->
+<!ENTITY  paneSync.title          "Sync">
 
 <!ENTITY  helpButton.label        "Справка">
