@@ -3,9 +3,9 @@
     <Description about="urn:mozilla:install-manifest">
         <em:id>langpack-ru@basilisk.browser</em:id>
         <em:name>Russian (RU) Language Pack</em:name>
-        <em:version>22.02.2025</em:version>
+        <em:version>2026.01.23</em:version>
         <em:type>8</em:type>
-        <em:creator>forum.ru-board.com</em:creator>
+        <em:creator>Enobarbous</em:creator>
         <em:targetApplication>
             <Description>
                 <em:id>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</em:id>
