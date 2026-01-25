@@ -9,7 +9,7 @@
 <!ENTITY refreshProfile.dialog.items.label2  "Установлению настроек браузера на значения по умолчанию">
 <!ENTITY refreshProfile.dialog.button.label  "Очистить &brandShortName;">
 
-<!ENTITY refreshProfile.title                "Наладка &brandShortName;">
+<!ENTITY refreshProfile.title                "Сброс &brandShortName;">
 <!ENTITY refreshProfile.button.label         "Очистить &brandShortName;…">
 
 <!ENTITY refreshProfile.cleaning.description "Почти готово…">

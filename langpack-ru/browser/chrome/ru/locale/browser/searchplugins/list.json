@@ -1,7 +1,1 @@
-{
-  "default": {
-    "visibleDefaultEngines": [
-      "duckduckgo-palemoon", "mojeek", "bing", "ecosia", "ekoru", "twitter", "wikipedia", "yahoo"
-    ]
-  }
-}
+{"default": {"visibleDefaultEngines": ["duckduckgo-palemoon", "mojeek", "bing", "ecosia", "ekoru", "twitter", "wikipedia", "yahoo"]}}

@@ -23,6 +23,5 @@
 <!ENTITY aboutPrivateBrowsing.note.before                "Приватный просмотр ">
 <!ENTITY aboutPrivateBrowsing.note.emphasize             "не обеспечивает вам анонимность">
 <!ENTITY aboutPrivateBrowsing.note.after                 " в Интернете. Ваш работодатель или интернет-провайдер всё ещё могут знать, какую страницу вы посещаете.">
-<!ENTITY aboutPrivateBrowsing.learnMore2          "Узнайте больше о ">
+<!ENTITY aboutPrivateBrowsing.learnMore2                 "Узнайте больше о ">
 <!ENTITY aboutPrivateBrowsing.learnMore2.title           "Приватном просмотре">
-
