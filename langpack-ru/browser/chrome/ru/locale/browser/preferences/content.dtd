@@ -38,10 +38,13 @@
 <!ENTITY chooseButton.label           "Выбрать…">
 <!ENTITY chooseButton.accesskey       "ы">
 
-<!ENTITY  javascript.label             "JavaScript">
+<!ENTITY  javascript.label            "JavaScript">
 
-<!ENTITY  javascriptWasm.label         "Включить WebAssembly (WASM)">
-<!ENTITY  javascriptWasm.accesskey     "к">
-<!ENTITY  javascriptWebrtc.label       "Включить WebRTC">
-<!ENTITY  javascriptWebrtc.accesskey   "ч">
-
+<!ENTITY  javascriptWasm.label           "Включить WebAssembly (WASM)">
+<!ENTITY  javascriptWasm.accesskey       "W">
+<!ENTITY  javascriptServiceWorkers.label      "Включить Service Workers">
+<!ENTITY  javascriptServiceWorkers.accesskey  "S">
+<!ENTITY  javascriptInternalUserscripts.label      "Включить встроенные полифиллы">
+<!ENTITY  javascriptInternalUserscripts.accesskey  "п">
+<!ENTITY  javascriptWebrtc.label           "Включить WebRTC">
+<!ENTITY  javascriptWebrtc.accesskey       "ч">

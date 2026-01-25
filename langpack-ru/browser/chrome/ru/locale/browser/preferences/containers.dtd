@@ -1,0 +1,26 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY window.width     "46em">
+
+<!ENTITY containers.dialog.title        "Управление контейнерами">
+<!ENTITY containers.dialog.description  "Создавайте и редактируйте контейнеры для разделения сеансов просмотра.">
+<!ENTITY containers.list.label          "Контейнеры">
+<!ENTITY containers.details.label       "Параметры контейнера">
+
+<!ENTITY containers.addButton.label          "Создать">
+<!ENTITY containers.addButton.accesskey      "С">
+<!ENTITY containers.removeButton.label       "Удалить">
+<!ENTITY containers.removeButton.accesskey   "У">
+<!ENTITY containers.saveButton.label         "Сохранить">
+<!ENTITY containers.saveButton.accesskey     "о">
+<!ENTITY containers.closeButton.label        "Закрыть">
+<!ENTITY containers.closeButton.accesskey    "З">
+
+<!ENTITY containers.name.label       "Имя:">
+<!ENTITY containers.name.accesskey   "И">
+<!ENTITY containers.icon.label       "Значок:">
+<!ENTITY containers.icon.accesskey   "З">
+<!ENTITY containers.color.label      "Цвет:">
+<!ENTITY containers.color.accesskey  "Ц">

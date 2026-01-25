@@ -14,30 +14,27 @@
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet1.v1):
      text in <a/> will be linked to the Firefox features page on mozilla.com
 -->
-<!ENTITY abouthome.defaultSnippet1.v1 "">
-
+<!ENTITY abouthome.defaultSnippet1.v1 "Thanks for choosing Firefox! To get the most out of your browser, learn more about the <a>latest features</a>.">
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet2.v1):
      text in <a/> will be linked to the featured add-ons on addons.mozilla.org
 -->
-<!ENTITY abouthome.defaultSnippet2.v1 "">
-
+<!ENTITY abouthome.defaultSnippet2.v1 "It’s easy to customize your Firefox exactly the way you want it. <a>Choose from thousands of add-ons</a>.">
 <!-- LOCALIZATION NOTE (abouthome.rightsSnippet): text in <a/> will be linked to about:rights -->
-<!ENTITY abouthome.rightsSnippet "">
+<!ENTITY abouthome.rightsSnippet "&brandFullName; is free and open source software from the non-profit Mozilla Foundation. <a>Know your rights…</a>">
 
 <!ENTITY abouthome.bookmarksButton.label "Закладки">
 <!ENTITY abouthome.historyButton.label   "Журнал">
-
 <!-- LOCALIZATION NOTE (abouthome.preferencesButtonWin.label): The label for the
      preferences/options item on about:home on Windows -->
-
 <!ENTITY abouthome.preferencesButtonWin.label  "Настройки">
-
 <!-- LOCALIZATION NOTE (abouthome.preferencesButtonUnix.label): The label for the
      preferences/options item on about:home on Linux and OS X -->
-
 <!ENTITY abouthome.preferencesButtonUnix.label  "Настройки">
 <!ENTITY abouthome.addonsButton.label    "Дополнения">
 <!ENTITY abouthome.downloadsButton.label "Загрузки">
 <!ENTITY abouthome.syncButton.label      "Синхронизация">
 
-<!ENTITY abouthome.aboutMozilla.label    "About &brandFullName;">
+<!-- LOCALIZATION NOTE (abouthome.aboutMozilla.label): The (invisible) label for
+     the mozilla wordmark in the top-right corner that links to Mozilla's main
+     about page. -->
+<!ENTITY abouthome.aboutMozilla.label    "About Mozilla">

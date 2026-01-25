@@ -6,13 +6,18 @@
 <!ENTITY migrationWizard.title          "Мастер импорта">
 
 <!ENTITY importFrom.label               "Импортировать настройки, закладки, журнал, пароли и другие данные из:">
-<!ENTITY importFromUnix.label           "Импортировать настройки, закладки, журнал, пароли и другие данные из:">
 <!ENTITY importFromBookmarks.label      "Импортировать закладки из:">
 
+<!-- START BUGFIX -->
+<!ENTITY importFromEdge.label           "Microsoft Edge">
+<!ENTITY importFromEdge.accesskey       "E">
 <!ENTITY importFromIE.label             "Microsoft Internet Explorer">
-<!ENTITY importFromIE.accesskey         "M">
+<!ENTITY importFromIE.accesskey         "I">
+<!-- END BUGFIX -->
+<!ENTITY importFromNothing.label        "Ничего не импортировать">
+<!ENTITY importFromNothing.accesskey    "Н">
 <!ENTITY importFromFirefox.label        "Firefox">
-<!ENTITY importFromFirefox.accesskey    "X">
+<!ENTITY importFromFirefox.accesskey    "F">
 
 <!ENTITY noMigrationSources.label       "Ни одной программы, содержащей закладки, журнал или пароли, не найдено.">
 

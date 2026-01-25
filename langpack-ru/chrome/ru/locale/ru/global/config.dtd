@@ -8,8 +8,8 @@
 <!-- LOCALIZATION NOTE: aboutWarningTitle.label should be attention grabbing and playful -->
 <!ENTITY aboutWarningTitle.label "Здесь водятся драконы!">
 <!ENTITY aboutWarningText.label "Изменение этих настроек может привести к ухудшению стабильности, безопасности и производительности данного приложения. Вам следует изменять что-либо только в том случае, если вы уверены в том, что делаете.">
-<!ENTITY aboutWarningButton2.label "Я обещаю быть осторожным!">
-<!ENTITY aboutWarningCheckbox.label "Постоянно напоминать мне, что это опасно">
+<!ENTITY aboutWarningButton2.label "Я принимаю на себя риск!">
+<!ENTITY aboutWarningCheckbox.label "Показывать это предупреждение в следующий раз">
 
 <!ENTITY searchPrefs.label "Поиск:">
 <!ENTITY searchPrefs.accesskey "о">
@@ -19,7 +19,7 @@
 <!-- Columns -->
 <!ENTITY prefColumn.label "Имя настройки">
 <!ENTITY lockColumn.label "Состояние">
-<!ENTITY typeColumn.label "Тип">
+<!ENTITY typeColumn.label "Тип содержимого">
 <!ENTITY valueColumn.label "Значение">
 
 <!-- Tooltips -->

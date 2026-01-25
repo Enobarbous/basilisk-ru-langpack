@@ -25,8 +25,8 @@
 <!ENTITY  reloadAllTabs.accesskey            "н">
 <!-- LOCALIZATION NOTE (duplicateTab.label): This is a command to duplicate
 a tab (i.e. it is a verb, not adjective). -->
-<!ENTITY  duplicateTab.label "Дублировать вкладку">
-<!ENTITY  duplicateTab.accesskey "Д">
+<!ENTITY  duplicateTab.label                 "Дублировать вкладку">
+<!ENTITY  duplicateTab.accesskey             "Д">
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
 direction in which tabs are closed, i.e. locales that use RTL mode should say
 left instead of right. -->
@@ -93,13 +93,11 @@ when there are no windows but Basilisk is still running. -->
 <!ENTITY pageSourceCmd.label "Исходный код страницы">
 <!ENTITY pageSourceCmd.accesskey "х">
 <!ENTITY pageSourceCmd.commandkey "u">
-<!ENTITY errorConsoleCmd.label        "Консоль Ошибок">
-<!ENTITY errorConsoleCmd.accesskey    "О">
+<!ENTITY errorConsoleCmd.label "Консоль Ошибок">
+<!ENTITY errorConsoleCmd.accesskey "О">
 <!ENTITY pageInfoCmd.label "Информация о странице">
 <!ENTITY pageInfoCmd.accesskey "ф">
 <!ENTITY pageInfoCmd.commandkey "i">
-<!ENTITY mirrorTabCmd.label "Транслировать вкладку">
-<!ENTITY mirrorTabCmd.accesskey "и">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
 These should match what Safari and other Apple applications use on OS X Lion. -->
 <!ENTITY enterFullScreenCmd.label "Перейти в полноэкранный режим">
@@ -204,7 +202,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Вы заблокировали доступ этого веб-сайта к вашему микрофону.">
 <!ENTITY urlbar.screenBlocked.tooltip            "Вы заблокировали доступ этого веб-сайта к вашему экрану.">
 <!ENTITY urlbar.geolocationBlocked.tooltip       "Вы заблокировали доступ этого веб-сайта к информации о местоположении.">
-<!ENTITY urlbar.indexedDBBlocked.tooltip         "Вы заблокировали доступ этого веб-сайта к хранилищу данных.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Вы заблокировали уведомления с этого веб-сайта.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Показать историю">
@@ -225,6 +222,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewBookmarksToolbar.label         "Показать панель закладок">
 
 <!ENTITY containersMenu.label "Контейнеры">
+<!ENTITY containersSettings.label "Управление контейнерами">
+<!ENTITY containersSettings.accesskey "к">
 
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
@@ -291,8 +290,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY selectAllCmd.accesskey       "д">
 <!ENTITY preferencesCmd2.label       "Настройки">
 <!ENTITY preferencesCmd2.accesskey     "Н">
-<!ENTITY preferencesCmdUnix.label       "Настройки">
-<!ENTITY preferencesCmdUnix.accesskey     "Н">
 
 <!ENTITY clearRecentHistory.label               "Удалить недавнюю историю…">
 
@@ -334,9 +331,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.addToPanel.accesskey "а">
 <!ENTITY customizeMenu.moveToToolbar.label "Переместить на панель инструментов">
 <!ENTITY customizeMenu.moveToToolbar.accesskey "е">
-<!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey, customizeMenu.pinToOverflowMenu.accesskey)
-     can appear on the same context menu as menubarCmd and personalbarCmd,
-     so they should have different access keys. customizeMenu.moveToToolbar and
+<!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey) can appear on the
+     same context menu as menubarCmd and personalbarCmd, so they should have
+     different access keys. customizeMenu.moveToToolbar and 
      customizeMenu.moveToPanel are mutually exclusive, so can share access
      keys.  -->
 <!ENTITY customizeMenu.moveToPanel.label "Переместить в меню">
@@ -498,8 +495,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailImageCmd.accesskey      "а">
 <!ENTITY emailVideoCmd.label          "Отправить видео по почте…">
 <!ENTITY emailVideoCmd.accesskey      "а">
-<!ENTITY castVideoCmd.label           "Отправить видео на устройство">
-<!ENTITY castVideoCmd.accesskey       "в">
 <!ENTITY emailAudioCmd.label          "Отправить аудио по почте…">
 <!ENTITY emailAudioCmd.accesskey      "а">
 <!ENTITY playPluginCmd.label          "Включить этот плагин">
@@ -701,20 +696,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Вкладки браузера">
 
-<!ENTITY syncTabsMenu2.label     "Вкладки С Других Устройств">
+<!-- LOCALIZATION NOTE (syncTabsMenu2.label): This appears in the history menu -->
+<!ENTITY syncTabsMenu2.label     "Вкладки с других устройств">
 
 <!ENTITY syncBrand.shortName.label    "Sync">
+
 <!ENTITY syncSetup.label              "Настроить &syncBrand.shortName.label;…">
 <!ENTITY syncSetup.accesskey          "ь">
-
-<!ENTITY syncSignIn.label             "Войти в Синхронизацию…">
-<!ENTITY syncSignIn.accesskey         "о">
 <!ENTITY syncSyncNowItem.label        "Синхронизировать">
 <!ENTITY syncSyncNowItem.accesskey    "х">
-<!ENTITY syncReAuthItem.label         "Переприсоединиться к Синхронизации…">
-<!ENTITY syncReAuthItem.accesskey     "и">
-<!ENTITY syncToolbarButton.label      "Синхро­низация">
-<!ENTITY syncTabsToolbarButton.label  "Синхронизированные Вкладки">
+<!ENTITY syncToolbarButton.label      "Синхронизация">
+<!ENTITY syncTabsToolbarButton.label  "Синхронизированные вкладки">
 
 <!ENTITY customizeMode.menuAndToolbars.header2 "Дополнительные инструменты и функции">
 <!ENTITY customizeMode.menuAndToolbars.empty "Нужно больше инструментов?">
@@ -778,4 +770,3 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY panicButton.thankyou.msg1                "Ваша недавняя история была удалена.">
 <!ENTITY panicButton.thankyou.msg2                "Безопасного веб-сёрфинга!">
 <!ENTITY panicButton.thankyou.buttonlabel         "Спасибо!">
-
