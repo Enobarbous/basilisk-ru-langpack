@@ -14,7 +14,7 @@
 <!-- LOCALIZATION NOTE (saveBodies.label): You can see this string in
    - the Web Console and Browser Console menu. -->
 <!ENTITY saveBodies.label     "Журналировать содержимое запросов и ответов">
-<!ENTITY saveBodies.accesskey "х">
+<!ENTITY saveBodies.accesskey "Ж">
 
 <!-- LOCALIZATION NOTE (openURL.label): You can see this string in the Web
    - Console context menu. -->
@@ -56,7 +56,7 @@
 <!ENTITY btnConsoleWarnings     "Предупреждения">
 <!ENTITY btnConsoleLog          "Журнал">
 <!ENTITY btnConsoleXhr          "XHR">
-<!ENTITY btnConsoleReflows      "Reflows">
+<!ENTITY btnConsoleReflows      "Перекомпоновки макета">
 
 <!-- LOCALIZATION NOTE (btnServerLogging): This is used as the text of the
   -  the toolbar. It shows or hides messages that the web developer inserted on
