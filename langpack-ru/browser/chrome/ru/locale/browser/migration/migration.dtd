@@ -8,12 +8,6 @@
 <!ENTITY importFrom.label               "Импортировать настройки, закладки, журнал, пароли и другие данные из:">
 <!ENTITY importFromBookmarks.label      "Импортировать закладки из:">
 
-<!-- START BUGFIX -->
-<!ENTITY importFromEdge.label           "Microsoft Edge">
-<!ENTITY importFromEdge.accesskey       "E">
-<!ENTITY importFromIE.label             "Microsoft Internet Explorer">
-<!ENTITY importFromIE.accesskey         "I">
-<!-- END BUGFIX -->
 <!ENTITY importFromNothing.label        "Ничего не импортировать">
 <!ENTITY importFromNothing.accesskey    "Н">
 <!ENTITY importFromFirefox.label        "Firefox">
